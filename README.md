@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Programming Language like C++, Python & Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (Contact Me: mshayaan24@gmail.com)
-- 😄 Pronouns: He
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
