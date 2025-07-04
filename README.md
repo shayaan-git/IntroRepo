@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Shayan @shayaan-git
 - 👀 I’m interested in Travelling
-- 🌱 I’m currently learning Programming Language like C++, Javascript 
+- 🌱 I like to know and learn new things
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (Contact Me: mshayaan24@gmail.com)
 - 😄 Pronouns: he/him
