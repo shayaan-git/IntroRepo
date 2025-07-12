@@ -19,5 +19,3 @@
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,threejs,github,git,tailwind,vercel,vite,cpp,py,kafka,gcp,figma,html,css,firebase,visualstudio&perline=5&theme=dark)](https://skillicons.dev)
-
-<p align="bottom-right"> ❤ </p>
