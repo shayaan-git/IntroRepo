@@ -3,7 +3,7 @@
 - 🌱 I'm a Final Year Undergrad Student
 - 🔭 I'm currently working on React
 - 📫 Reach me at: mshayaan24@gmail.com
-- 📰 Sunday Doodles: https://medium.com/@mshayaan24
+- 🕸 Doodles Drafts: https://medium.com/@mshayaan24
 - 💬 Let's Connect
   
 ### Connect with me:
