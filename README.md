@@ -12,7 +12,7 @@
     <img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" alt="Github Badge"/>
   </a>
 
-  <a href="ttps://www.linkedin.com/in/mohdshayaan">
+  <a href="https://www.linkedin.com/in/mohdshayaan">
     <img src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" alt="LinkedIn Badge"/>
   </a>
 </div>
