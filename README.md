@@ -2,9 +2,9 @@
 
 - 🔭 I'm currently working on React
 - 🌱 I'm a Final Year Undergrad Student
-- 💬 Let's Connect
 - 📫 Reach me at: mshayaan24@gmail.com
-- 😄 My LinkedIn: https://www.linkedin.com/in/mohdshayaan/
+- 📰 My Blog Page: https://medium.com/@mshayaan24
+- 💬 Let's Connect
   
 ### Connect with me:
 <div id="badges">
@@ -20,3 +20,4 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,threejs,github,git,tailwind,vercel,vite,cpp,py,kafka,gcp,figma,html,css,firebase,visualstudio&perline=5&theme=dark)](https://skillicons.dev)
 
+❤
