@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Mohd. Shayaan</h1>
-
-- 🔭 I'm currently working on React
+ 
 - 🌱 I'm a Final Year Undergrad Student
+- 🔭 I'm currently working on React
 - 📫 Reach me at: mshayaan24@gmail.com
 - 📰 My Blog Page: https://medium.com/@mshayaan24
 - 💬 Let's Connect
