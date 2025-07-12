@@ -18,5 +18,5 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,threejs,github,git,tailwind,vercel,vite,cpp,py,kafka,gcp,figma&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,threejs,github,git,tailwind,vercel,vite,cpp,py,kafka,gcp,figma,html,css,firebase&perline=5&theme=dark)](https://skillicons.dev)
 
